@@ -3,7 +3,6 @@
 <img align="left" alt="Coding" width="400" src="https://c.tenor.com/mqzuK_iOjzYAAAAC/leonardo-dicaprio-cheers.gif">
 <img align="right" alt="Coding" width="400" src="https://img.devrant.com/devrant/rant/r_68112_hkpZc.gif">
 
-
 <p align="left"> <a href="https://twitter.com/yidong7120" target="blank"><img src="https://img.shields.io/twitter/follow/yidong7120?logo=twitter&style=for-the-badge" alt="yidong7120" /></a> </p>
 
 - 🔭 Looking up for **experts in whichever field!**
