@@ -11,7 +11,7 @@
 
 - 👯 I’m invigorating to collaborate **with other!**
 
-- ⚡ **Currently learning Cloud Database, Internet of Things, Computer programming**
+- ⚡ **Currently learning computer engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
