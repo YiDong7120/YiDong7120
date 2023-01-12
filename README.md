@@ -11,7 +11,7 @@
 
 - 👯 I’m invigorating to collaborate **with other!**
 
-- ⚡ **Currently learning computer engineering**
+- ⚡ **Currently learning computer engineering in UTeM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
