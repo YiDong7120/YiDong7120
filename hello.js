@@ -1,1 +1,1 @@
-console.log("Hello It's Me")
+const gan = "hacker";
