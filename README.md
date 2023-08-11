@@ -2,8 +2,7 @@
 <h3 align="center"> Sups y'all, I ain't know nothin' 🤣 </h3>
 <img align="left" alt="Coding" width="400" src="https://c.tenor.com/mqzuK_iOjzYAAAAC/leonardo-dicaprio-cheers.gif">
 <img align="right" alt="Coding" width="400" src="https://img.devrant.com/devrant/rant/r_68112_hkpZc.gif">
-<br><br><br><br><br><br><br><br><br><br>
-
+<br><br><br><br><br><br><br><br><br><br><br>
 
 - 🔭 Looking up for **experts in whichever field!**
 
