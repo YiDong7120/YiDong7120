@@ -37,6 +37,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=YiDong7120&icon=4&color=6)](https://visitcount.itsvg.in)
-
-## My snake
-![snake gif](https://github.com/YiDong7120/YiDong7120/blob/output/github-contribution-grid-snake.svg)
