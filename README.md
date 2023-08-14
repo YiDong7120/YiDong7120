@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aik+Tong!+😻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aik+Tong!+😻;+Sups+y'all!;+I+ain't+know+nothin'+🤣" />
 </h1>
 
-<h3 align="center"> Sups y'all, I ain't know nothin' 🤣 </h3>
+<!-- <h3 align="center"> Sups y'all, I ain't know nothin' 🤣 </h3> -->
 <img align="left" alt="Coding" width="400" src="https://c.tenor.com/mqzuK_iOjzYAAAAC/leonardo-dicaprio-cheers.gif">
 <img align="right" alt="Coding" width="400" src="https://img.devrant.com/devrant/rant/r_68112_hkpZc.gif">
 <br><br><br><br><br><br><br><br><br><br><br>
