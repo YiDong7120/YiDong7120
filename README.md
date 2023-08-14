@@ -39,10 +39,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=YiDong7120&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <hr/><div align="center">
-  <h2>🐍 My Snake 🐍</h2>
+  <h2>🐍 There's easter egg in my contributions, try to find it out! 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
   <br/><br/><br/>
 </div><hr/>
 
