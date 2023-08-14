@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aik Tong 😻</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YiDong7120.YiDong7120" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aik+Tong!+😻;" />
+</h1>
+
 <h3 align="center"> Sups y'all, I ain't know nothin' 🤣 </h3>
 <img align="left" alt="Coding" width="400" src="https://c.tenor.com/mqzuK_iOjzYAAAAC/leonardo-dicaprio-cheers.gif">
 <img align="right" alt="Coding" width="400" src="https://img.devrant.com/devrant/rant/r_68112_hkpZc.gif">
@@ -37,3 +42,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=YiDong7120&icon=4&color=6)](https://visitcount.itsvg.in)
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
