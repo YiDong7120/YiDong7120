@@ -40,9 +40,8 @@
 
 <br><div align="center">
   <h2>🐍 There's an easter egg in my contributions, try to find it out! 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
+  <br/><br/>
 </div><hr/>
 
 <h3 align="center">
