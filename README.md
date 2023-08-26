@@ -16,6 +16,8 @@
 
 - ⚡ **Currently learning computer engineering in UTeM**
 
+- 🤣 **[Click Here](https://yidong7120.github.io/portfolio/) to know more!**
+
 <!-- <h3 align="left"> 🌐 Socials:</h3> -->
 ## 🌐 Socials:
 <p align="left">
